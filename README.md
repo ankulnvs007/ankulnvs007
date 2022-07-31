@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Languages
+JavaScript | Solidity | C | C++ | Java | Python | HTML5 | CSS3 | Markdown
+
+Libraries & Framework
+SCSS | Bootstrap | React | NPM | NodeJS | Express | Pug
+
+MongoDB | MySQL | GitHub | DigitalOcean | Netlify
+
+Tools
+Git | Postman | Figma | Google Chrome
+Windows | Linux | Ubuntu | Visual Studio Code | IntelliJ Idea
