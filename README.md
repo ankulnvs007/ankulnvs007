@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 💬 Ask me about C / C++ programming
 
-- 📫 Connect me @ ankulnvs007@gmail.com
+- 📫 Connect me : ankulnvs007@gmail.com
 
 - ⚡ My primary coding language: C++
 
