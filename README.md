@@ -1,26 +1,7 @@
- ### Hi there 👋, I am Ankul
-
 <!--
 **ankulnvs007/ankulnvs007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 💬 Ask me about C / C++ programming
-
-- 📫 Connect me : ankulnvs007@gmail.com
-
-- ⚡ My primary coding language: C++
-
-- 🔭 Passionate for learning & exploring new Tech.
 
 - 😄 Ask me about anything, I'll be happy to help.
 - <h1 align="center">Hi 👋, I'm Ankul Rathour</h1>
@@ -32,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Associate Software Engineer (https://www.nagarro.com/)
 
 - 💬 Ask me about **Angular, React, .NET, NodeJs, Express**
-
+- 🔭 Passionate for learning & exploring new Tech.
 - 📫 How to reach me **ankulnvs007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
