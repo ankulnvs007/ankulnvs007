@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as Software Engineer at Nagarro
 - 💬 Ask me about Java, Spring Boot, Microservices, REST APIs, AWS, Docker, MySQL, PostgreSQL, and Angular
-- 📫 How to reach me: ankulnvs007@gmail.com
+- 📫 Connect me at: ankulnvs007@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
