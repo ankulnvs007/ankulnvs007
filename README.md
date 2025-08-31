@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankulnvs007" alt="ankulnvs007" /></a> </p>
 
-- 🔭 I’m currently working as Software Engineer at Nagarro
-- 💬 Ask me about Java, Spring Boot, Microservices, REST APIs, AWS, Docker, MySQL, PostgreSQL, and Angular
-- 📫 Feel free to rech me out at: ankulnvs007@gmail.com
+Results-driven Backend Developer with 2+ years of hands-on experience in designing, developing, and deploying scalable, cloud-native applications. Skilled in Java, Spring Boot, Microservices, REST APIs, AWS, Docker, MySQL, PostgreSQL, and Angular.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
